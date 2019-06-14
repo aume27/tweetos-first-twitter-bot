@@ -9,10 +9,11 @@ to see chart data from the charts inside a spreadsheet.
 You will need 3 Libraries: Oauth1 Oauth2 and Twitter-lib. 
 
 ### Resourse and Credits
-- Article: [I created a Twitter Bot from nothing but a Google Sheet](https://medium.com/javascript-in-plain-english/i-made-a-twitter-bot-from-nothing-but-a-google-sheet-ef0ba6e1b194) \
+- Article: [I created a Twitter Bot from nothing but a Google Sheet](https://medium.com/javascript-in-plain-english/i-made-a-twitter-bot-from-nothing-but-a-google-sheet-ef0ba6e1b194)
 - [project template by Author](https://docs.google.com/spreadsheets/d/1mq-zn-oK8Ojz1q-rUP7n1kDE9AkirVQZJYqhDpmH57c/edit#gid=1960851360)
    - Author github profile: https://github.com/PeterBerthelsen
-- [Google app script "Twitter Lib"](https://github.com/airhadoken/twitter-lib) \
+- [Google app script "Twitter Lib"](https://github.com/airhadoken/twitter-lib)
+
 [![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
 [![googleAppScript](https://img.shields.io/badge/built%20with-googleAppScript-4285f4.svg)](https://developers.google.com/apps-script/)
 
