@@ -1,5 +1,5 @@
-#My first twitter bot
-###Description: \
+# My first twitter bot \
+### Description: \
 This bot is able to post tweets with and without images. \
 Reply to tweets if tweet ID is mentioned. \
 
